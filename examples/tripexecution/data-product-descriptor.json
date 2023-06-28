@@ -3,7 +3,7 @@
     "info": {
         "name": "tripExecution",
         "fullyQualifiedName": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1",
-        "version": "1.2.3",
+        "version": "1.2.4",
         "domain": "Transport Management",
         "owner": {
             "id": "john.doe@company-xyz.com",
